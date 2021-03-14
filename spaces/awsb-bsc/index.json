@@ -1,0 +1,19 @@
+{
+  "name": "a Wall Street Bets (BSC)",
+  "network": "56",
+  "symbol": "aWSB",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x8C48D050e618e715b35a0e1e03C3B590001121cf",
+        "symbol": "aWSB",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
